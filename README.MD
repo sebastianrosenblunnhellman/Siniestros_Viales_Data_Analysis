@@ -1,4 +1,4 @@
-# Rol 🚦🚔
+# Rol (ficticio) 🚦🚔
 
 El Observatorio de Movilidad y Seguridad Vial (OMSV), un centro de estudios bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, ha encargado la realización de un proyecto de análisis de datos. El objetivo principal de este proyecto es generar información que permita a las autoridades locales tomar medidas efectivas para reducir la cantidad de víctimas fatales en siniestros viales.
 
@@ -66,7 +66,7 @@ Se realizó un análisis bivariado, principalmente utilizando las fechas, para o
 
 Además, se llevó a cabo una visualización geográfica de la distribución de los hechos para comprender mejor su ubicación en la Ciudad de Buenos Aires.
 
-Continuaré con la siguiente sección una vez que me la proporciones.
+
 
 ### 3. Desarrollo en Power BI 📊🔍
 
