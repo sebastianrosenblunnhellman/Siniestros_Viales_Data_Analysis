@@ -1,4 +1,4 @@
-# Observatorio de Movilidad y Seguridad Vial (OMSV) 🚦🚔
+# Rol 🚦🚔
 
 El Observatorio de Movilidad y Seguridad Vial (OMSV), un centro de estudios bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, ha encargado la realización de un proyecto de análisis de datos. El objetivo principal de este proyecto es generar información que permita a las autoridades locales tomar medidas efectivas para reducir la cantidad de víctimas fatales en siniestros viales.
 
