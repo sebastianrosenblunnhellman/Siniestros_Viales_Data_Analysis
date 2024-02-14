@@ -85,8 +85,9 @@ Esta pestaña muestra los KPIs propuestos:
 2. **Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.**
    - Se define la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado período temporal. La fórmula utilizada para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100.
 
-3.
-
+3. **Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en la comuna 1, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.**
+   - Se define la tasa de homicidios en siniestros viales igual que en el primer KPI.
+   
 #### Perfil Demográfico de las Víctimas 👤📊
 
 Esta sección presenta:
